@@ -33,3 +33,7 @@ pip install requirements.txt
 pip install streamlit
 streamlit run 1_🏠Home.py
 ```
+
+**Designed & Developed By:**
+**Vivek Singh**
+**Software Development Engineer**
