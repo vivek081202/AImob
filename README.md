@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/82748553/214612410-930c3f2d-af51-426d-a04f-c8645fb76ab1.png)
 ![image](https://user-images.githubusercontent.com/82748553/214612486-20f3d398-34dc-4cb4-87b7-68b5aebe3948.png)
 
-**Streamlit python framework [https://streamlit.io/]
+**Streamlit python framework [https://streamlit.io/]**
 
 ## Note: Python must have installed before running AImob on localhost server. [https://www.python.org/downloads/]
 ## How to run AImob
