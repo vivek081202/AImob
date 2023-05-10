@@ -1,7 +1,7 @@
 # import python libraries
 import streamlit as st
 import numpy as np
-import mysql.connector
+#import mysql.connector
 from streamlit_option_menu import option_menu
 
 # set page configurations
