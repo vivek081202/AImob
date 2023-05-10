@@ -9,5 +9,4 @@ google-api-python-client==2.71.0
 streamlit-player==0.1.5
 wordcloud==1.8.2.2
 altair==4.2.0
-mysql==0.0.3
 seaborn==0.12.2
