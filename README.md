@@ -31,7 +31,7 @@
 ![image](https://github.com/vivek081202/AImob/assets/82748553/47e92a03-54de-4512-a0be-ae1baa9f660e)
 
 ## Exploratory Data Analysis tool
-![image](https://github.com/vivek081202/AImob/assets/82748553/501d8c97-ab11-45a2-99f4-8ed9c6ed2c4b)
+![image](https://github.com/vivek081202/AImob/assets/82748553/d8adb0c5-c075-4c07-adbc-a7a4f207b641)
 
 ## Prescriptive Data Analysis tool
 ![image](https://github.com/vivek081202/AImob/assets/82748553/82ea1273-b99a-4f1e-b085-fc0e39aaeebc)
