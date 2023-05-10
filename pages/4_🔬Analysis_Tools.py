@@ -1,5 +1,5 @@
 import streamlit as st
-import RAKE
+#import RAKE
 from streamlit_option_menu import option_menu
 from textblob import TextBlob
 import pandas as pd
