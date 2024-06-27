@@ -1,4 +1,4 @@
-# AImob - An AI based sentiment & predictive analysis tool
+# AImob - Data analysis tool
 
 ![AIlogo](https://user-images.githubusercontent.com/82748553/214609614-078db1a7-f16a-48d6-8be0-9a38913f0d5b.png)
 
